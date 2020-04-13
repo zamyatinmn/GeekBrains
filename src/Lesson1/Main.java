@@ -1,3 +1,5 @@
+package Lesson1;
+
 public class Main {
     //Задание 1
     public static void main(String[] args) {
